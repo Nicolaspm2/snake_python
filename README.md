@@ -11,3 +11,13 @@ Fique a vontade para testar, forkar, etc...
 
 - Pygame 
 - Random
+
+### IDE
+
+- Pycharm Community Edition
+
+### Requirements 
+
+- Python
+- Pygame - pip install pygame
+- Random
